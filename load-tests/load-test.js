@@ -8,5 +8,6 @@ export let options = {
 
 export default function () {
     http.get('https://dummyjson.com/products');
+    
     sleep(1);
 }
