@@ -116,7 +116,6 @@ pm.test("Products exist", function () {
 * Writing Postman test scripts
 * Bug reporting using Jira
 * Structuring real-world QA projects
-
 ---
 
 ## 📈 Future Improvements
@@ -125,6 +124,5 @@ pm.test("Products exist", function () {
 * Automate tests using Newman
 * Integrate CI/CD (GitHub Actions)
 * Advanced scripting
-
 ---------------------------------------------------------------------------------------------------
 
